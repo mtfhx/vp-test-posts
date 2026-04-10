@@ -17,3 +17,8 @@ Here is the content.
 ### Heading 3
 
 Here is the content.
+
+<GitChangelog :header-level="4" />
+
+
+<GitContributors :header-level="4" />
