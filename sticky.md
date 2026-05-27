@@ -6,6 +6,10 @@ tag:
   - tag E
 sticky: true
 excerpt: <p>A sticky article demo.</p>
+contributors:
+  - LiLy
+gitInclude:
+  - ../README.md
 ---
 
 # Sticky Article
@@ -19,6 +23,5 @@ Here is the content.
 Here is the content.
 
 <GitChangelog :header-level="4" />
-
 
 <GitContributors :header-level="4" />
